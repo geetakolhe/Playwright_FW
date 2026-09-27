@@ -1,0 +1,6 @@
+{
+  "runId": "20260927_195226",
+  "tests": {
+    "chromium › 03_Locator_Commands\\230_getByRole.spec.ts › Verfiy the error message in the wingify free trial": "passed"
+  }
+}
