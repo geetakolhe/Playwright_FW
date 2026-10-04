@@ -10,3 +10,13 @@ node_modules/
 /playwright/.auth/
 /user-session.json
 .env
+
+# saved auth state (contains live session cookies)
+user-session.json
+*storage*.json
+
+# generated reports
+/tta-report/
+/allure-results/
+/allure-report/
+/reports/
